@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at [Optioryx](https://www.optioryx.com/)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **TypeScript**, **ThreeJS**, and **Python**
 
 - 📫 How to reach me **louka.octave@hotmail.com**
 
