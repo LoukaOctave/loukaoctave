@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript**, **ThreeJS**, and **Python**
 
-- 📫 How to reach me **louka.octave@hotmail.com**
+- 📫 You can reach me on **louka.octave@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
