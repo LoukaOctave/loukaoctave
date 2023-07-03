@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loukaoctave&label=Profile%20views&color=0e75b6&style=flat" alt="loukaoctave" /> </p>
 
-- 🔭 I’m currently working at [Optioryx](https://www.optioryx.com/)
+- 🔭 I’m currently working at **[Optioryx](https://www.optioryx.com/)**
 
 - 🌱 I’m currently learning **TypeScript**, **ThreeJS**, **Python**, and **PydanticV2**
 
