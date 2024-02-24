@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working at **[Optioryx](https://www.optioryx.com/)**
 
-- 🌱 I’m currently learning **ThreeJS**, **Docker Compose**, and **PydanticV2**
+- 🌱 I’m currently learning **PydanticV2**, **Docker Compose**, and **Docusaurus**
 
 - 📫 You can reach me on **louka.octave@hotmail.com**
 
