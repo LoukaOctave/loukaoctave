@@ -87,8 +87,11 @@
   <a href="https://jellyfin.org/" target="_blank" rel="noreferrer">
     <img src="https://jellyfin.org/images/favicon.ico" alt="jellyfin" width="40" height="40"/>
   </a>
+  <a href="https://mattermost.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/mattermost/mattermost/refs/heads/master/webapp/channels/src/images/favicon/favicon-96x96.png" alt="mattermost" width="40" height="40"/>
+  </a>
   <a href="https://pi-hole.net/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/16827203?s=200&v=4" alt="pihole" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/16827203" alt="pihole" width="40" height="40"/>
   </a>
   <a href="https://www.portainer.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/portainer/portainer-original.svg" alt="portainer" width="40" height="40"/>
