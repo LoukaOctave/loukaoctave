@@ -96,4 +96,7 @@
   <a href="https://www.portainer.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/portainer/portainer-original.svg" alt="portainer" width="40" height="40"/>
   </a>
+  <a href="https://www.stirlingpdf.com/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/139791695" alt="stirling pdf" width="40" height="40"/>
+  </a>
 </p>
