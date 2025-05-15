@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at **[Optioryx](https://www.optioryx.com/)**
 
-- 🌱 I’m currently learning **Konva.js**, **CloudFormation**, and **PydanticV2**
+- 🌱 I’m currently learning **Next.js**, **Konva.js**, and **CloudFormation**
 
 - 📫 You can reach me on **louka.octave@hotmail.com**
 
